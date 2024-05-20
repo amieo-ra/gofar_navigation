@@ -1,1 +1,1 @@
-gofar_navigation messages for Hunter
+# gofar_navigation
