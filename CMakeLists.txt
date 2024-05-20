@@ -20,7 +20,7 @@ find_package(rosidl_default_generators REQUIRED)
 find_package(diagnostic_msgs REQUIRED)
 
 rosidl_generate_interfaces(gofar_navigation_msgs
-  "msg/NewAgentConfigGoFar.msg"
+  "msg/NewAgentConfigGoF.msg"
   "msg/Module.msg"
 
   DEPENDENCIES builtin_interfaces sensor_msgs geometry_msgs std_msgs diagnostic_msgs
